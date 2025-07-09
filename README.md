@@ -1,8 +1,7 @@
-### <div align="center">Hi there! I'm Wilbard Jr Shinyemba, an engineering student with a deep passion for coding. My journey into the world of technology began with a science fair project and a fascination of how things work, and it quickly evolved into a love for building and creating with code. My ultimate ambition is to become a full-stack web developer, crafting seamless and engaging digital experiences from front to back.</div>  
-  
+### <div align="center">Hi there! I'm Wilbard Jr Shinyemba, an engineering student with a deep passion for coding. My journey into the world of technology began with a science fair project and a fascination of how things work, and it quickly evolved into a love for building and creating with code. My ultimate ambition is to become a full-stack web developer, crafting seamless and engaging digital experiences from front to back.</div>
 
-- 🔭 I’m currently working on an administration app for my church  
-  
+- ⚛️ I use nothing Javascript for every project I have  
+
 
 - 🌱 I’m currently learning Python, C, C# and C++  
   
