@@ -76,16 +76,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Wilbard-Jr82&&style=flat-square" align="center" />
 </div> 
