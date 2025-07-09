@@ -27,7 +27,11 @@ Hi there! I'm Wilbard Jr Shinyemba, an engineering student with a deep passion f
 - ⚡ Fun fact: I use nothing but Javascript ⚛️ for almost every project I have  
 
 
-</td><td valign="top" width="50%">  
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
 
 <br/>  
 
@@ -69,4 +73,4 @@ Hi there! I'm Wilbard Jr Shinyemba, an engineering student with a deep passion f
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Wilbard-Jr82&&style=flat-square) 
+![Profile views counter](https://komarev.com/ghpvc/?username=Wilbard-Jr82&&style=flat-square)  
