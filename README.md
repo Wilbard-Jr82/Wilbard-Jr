@@ -27,11 +27,7 @@ Hi there! I'm Wilbard Jr Shinyemba, an engineering student with a deep passion f
 - ⚡ Fun fact: I use nothing but Javascript ⚛️ for almost every project I have  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</td><td valign="top" width="50%">  
 
 <br/>  
 
