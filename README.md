@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Java, C, C# and C++  
   
 
-- ⚡ Fun fact: I use a lot of VScode extensions   
+- ⚡ Fun fact: I use a lot of VScode extensions😅  
   
 
 <br/>  
